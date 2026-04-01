@@ -1,0 +1,5 @@
+{
+  "name": "SVM Explainer",
+  "description": "A visual, interactive guide to Support Vector Machines (SVM) with SVG visualizations and key ML concepts.",
+  "requestFramePermissions": []
+}
